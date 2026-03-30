@@ -1,6 +1,5 @@
---- AISHA'S OPEN SOURCE PHILOSOPHY ---
-Date: 2026-03-30
-
-My favorite tool is VS Code because I value Ownership above all else.
-As a developer, I plan to contribute A mobile app for community volunteering to the FOSS community
-so that others can study and improve upon my work freely.
+--- SOVEREIGNTY MANIFESTO: AISHA IFRAH ---
+Timestamp: Tue Mar 31 01:31:41 IST 2026
+I implement SSH/RSA-4096 to safeguard my technical contributions.
+In my view, Open Source represents Technical Independence.
+I commit to building GnuPG Encryption to protect user autonomy.
